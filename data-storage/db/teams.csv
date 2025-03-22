@@ -1,0 +1,11 @@
+TeamID,TeamName,Department,TeamLead,NumberOfMembers,CreatedDate,Status,PrimaryObjective
+401,Software Development,Engineering,John Doe,12,2022-06-15,Active,Develop and maintain software solutions.
+402,Data Science,Engineering,Jessica Anderson,8,2023-04-10,Active,Work on AI/ML models and data-driven insights.
+403,HR & Recruitment,HR,Susan Moore,6,2023-06-01,Active,Manage recruitment and employee well-being.
+404,Marketing & Branding,Marketing,Jane Smith,10,2021-08-12,Active,Develop marketing strategies and brand presence.
+405,Finance & Accounting,Finance,Emily Davis,7,2019-11-05,Active,Manage company finances and compliance.
+406,Sales & Client Relations,Sales,Linda Wilson,15,2022-09-18,Active,Drive sales and maintain client relationships.
+407,DevOps & IT Support,Engineering,Michael Johnson,9,2023-02-10,Active,Ensure infrastructure security and automation.
+408,Customer Support,Support,William Martinez,14,2021-07-23,Active,Handle customer queries and service requests.
+409,Legal & Compliance,Legal,David Thomas,5,2020-01-14,Active,Ensure legal and regulatory compliance.
+410,Research & Innovation,R&D,Robert Brown,11,2024-01-20,Active,Explore new technologies and product improvements.

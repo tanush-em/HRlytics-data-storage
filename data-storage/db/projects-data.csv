@@ -1,0 +1,11 @@
+ProjectID,ProjectName,Department,StartDate,EndDate,ProjectManager,Status,Budget,Description
+201,HR Automation System,HR,2023-05-01,2024-09-30,Robert Brown,Ongoing,50000,Automating HR workflows including payroll and leave management.
+202,Employee Engagement Survey,HR,2024-02-10,2024-06-15,Susan Moore,Ongoing,20000,Developing surveys to assess employee satisfaction and engagement.
+203,Sales Dashboard,Sales,2022-08-01,2023-11-30,Linda Wilson,Completed,45000,Created a dashboard to visualize sales performance and revenue trends.
+204,Recruitment AI,HR,2025-01-01,2025-12-31,Jane Smith,Future,75000,Developing an AI-based recruitment tool to screen job applicants.
+205,Finance Risk Analysis,Finance,2023-03-15,2023-12-20,Emily Davis,Completed,60000,Identified financial risks and compliance issues using machine learning models.
+206,Employee Training Portal,Engineering,2024-06-01,2025-06-01,Michael Johnson,Future,90000,An internal platform for employee skill development and certifications.
+207,Customer Support Chatbot,Support,2023-04-01,2024-05-31,William Martinez,Ongoing,55000,Building a chatbot to assist customers with common inquiries.
+208,Payroll System Upgrade,Finance,2022-05-10,2023-03-28,David Thomas,Completed,70000,Upgraded payroll processing to support multi-currency and remote employees.
+209,Marketing Analytics Suite,Marketing,2024-03-01,2024-12-31,Jessica Anderson,Ongoing,65000,Developing an analytics suite to track campaign performance.
+210,Workplace Well-being Initiative,HR,2025-03-01,2025-12-15,John Doe,Future,30000,Introducing wellness programs and mental health support for employees.

@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Email,Phone,Department,Position,Salary,DateOfJoining,EmploymentType,Status
+101,John,Doe,john.doe@example.com,9876543210,Engineering,Software Engineer,75000,2022-06-15,Full-Time,Active
+102,Jane,Smith,jane.smith@example.com,9876543211,Marketing,Marketing Manager,68000,2021-03-12,Full-Time,Active
+103,Robert,Brown,robert.brown@example.com,9876543212,HR,HR Specialist,60000,2020-08-22,Part-Time,Active
+104,Emily,Davis,emily.davis@example.com,9876543213,Finance,Accountant,72000,2019-11-05,Full-Time,Active
+105,Michael,Johnson,michael.johnson@example.com,9876543214,Engineering,DevOps Engineer,80000,2023-02-10,Full-Time,Active
+106,Linda,Wilson,linda.wilson@example.com,9876543215,Sales,Sales Representative,55000,2022-09-18,Contract,Active
+107,William,Martinez,william.martinez@example.com,9876543216,Support,Customer Support,50000,2021-07-23,Full-Time,Active
+108,Jessica,Anderson,jessica.anderson@example.com,9876543217,Engineering,Data Scientist,85000,2022-04-30,Full-Time,Active
+109,David,Thomas,david.thomas@example.com,9876543218,Legal,Legal Advisor,90000,2020-01-14,Full-Time,Active
+110,Susan,Moore,susan.moore@example.com,9876543219,HR,Recruiter,58000,2023-06-01,Full-Time,Active
