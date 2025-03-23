@@ -11,7 +11,8 @@ export default function Home() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-8">Dashboard Overview</h1>
+      <h1 className="text-5xl font-bold mb-8">HRlytics</h1>
+      <h1 className="text-3xl font-bold mb-8">Database Overview</h1>
       
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         <Card>
@@ -39,7 +40,7 @@ export default function Home() {
         </Card>
       </div>
 
-      <h2 className="text-xl font-semibold mt-8 mb-4">Available CSV Files</h2>
+      <h2 className="text-xl font-semibold mt-8 mb-4">Available Databases & Views</h2>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {availableFiles.map((file) => {
           const data = readCSVFile(`data-storage/db/${file}.csv`);
